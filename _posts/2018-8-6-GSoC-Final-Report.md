@@ -103,22 +103,49 @@ This post aims at linking and listing out all the feature milestones developed d
         </ul>
       </li>
       <li>
-        <a href="https://github.com/oppia/oppia/pull/5483" target="_blank">PR#5483: Milestone 3.4: Added drag and drop files functionality</a>
+        <a href="https://github.com/oppia/oppia/pull/5483" target="_blank">PR#5483: Milestone 3.4: Added drag and drop files functionality.</a>
         <ul>
           <li> Added funcionality to drag and drop files in the new translation tab.</li>
+        </ul>
+      </li>
+      <li>
+        <a href="https://github.com/oppia/oppia/pull/5506" target="_blank">PR#5506: Milestone 3.5: End to end tests for translation tab.</a>
+        <ul>
+          <li> Added e2e tests for the new translation tab.</li>
         </ul>
       </li>
     </ul>
 </li>
 </ol>
 
-
-<h1>Future work:</h1>
-<ol>
+<h1>Miscellaneous work:</h1>
+<ul>
     <li>
-        <b>Will add soon!</b>
+        <a href="https://github.com/oppia/oppia/pull/5496" target="_blank">PR#5496: Added recorder config in app.js</a>
     </li>
-</ol>
+    <li>
+        <a href="https://github.com/oppia/oppia/pull/5496" target="_blank">PR#5496: Added recorder config in app.js</a>
+    </li>
+    <li>
+        <a href="https://github.com/oppia/oppia/pull/5294" target="_blank">PR#5448: Fixed backend failing tests in suggestion_tests</a>
+    </li>
+    <li>
+        <a href="https://github.com/oppia/oppia/pull/5227" target="_blank">Fix #5287: Deletes feedback content id while deleting interaction.</a>
+    </li>
+    <li>
+        <a href="https://github.com/oppia/oppia/pull/5294" target="_blank">Fix #5287: Deletes feedback content id while deleting interaction.</a>
+    </li>
+    <li>
+        <a href="https://github.com/oppia/oppia/pull/5136" target="_blank">PR#5136: Minor fix in getNeedsUpdateTooltipMessag.</a>
+    </li>
+    <li>
+        <a href="https://github.com/oppia/oppia/pull/5116" target="_blank">PR#5116: Added notes to run single e2e and unit tests.</a>
+    </li>
+    <li>
+        <a href="https://github.com/oppia/oppia/pull/5091" target="_blank">Fix #5083: Audio needs update span disable for guest users.</a>
+    </li>
+</ul>
+
 <br>
 You may find all my github pull requests <a href="https://github.com/oppia/oppia/pulls?q=is%3Apr+author%3ADubeySandeep+is%3Aclosed" target="_blank"><i>here</i></a> in one go.
 
