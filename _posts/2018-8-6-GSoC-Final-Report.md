@@ -162,6 +162,6 @@ After the end of the milestone three the translation tab was ready for the end u
 
 
 <br>
-You may find all my github pull requests <a href="https://github.com/oppia/oppia/pulls?q=is%3Apr+author%3ADubeySandeep+is%3Aclosed" target="_blank"><i>here</i></a> in one go.
+You may find all my github pull requests <a href="https://github.com/oppia/oppia/pulls?q=is%3Apr+author%3ADubeySandeep+is%3Aclosed" target="_blank"><i>here</i></a> in one go and you can check the devlogs <a href="https://docs.google.com/document/d/1Gmq2Apkfs3Ixc4cjkVbIMvlxKR9Ds7ARsRpvZOi74lg/edit?usp=sharing" target="_blank"><i>here</i></a>.
 
 Overall, a summer well spent. I'll be contributing to Oppia Foundation even after the completion of GSoC, aiming to fix the rest of the Sidebar issues. Happy Hacking!
