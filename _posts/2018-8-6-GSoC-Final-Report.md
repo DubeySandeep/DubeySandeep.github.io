@@ -13,12 +13,12 @@ published: true
 ---
 As Google Summer of Code 2018 draws to a close, I'd like to summarize my work  for Oppia Foundation on the project - 'Lesson translation dashboard'. I had an awesome experience working with the Oppia Foundation community, under the mentorship of two amazing people - **Tony Jiang** and **Anmol Shukla**.
 
-This post aims at linking and listing out all the feature milestones developed during my project and the relevant pull requests, along with the work to be done in the future.
+This post aims at linking and listing out all the feature milestones developed during my project and the relevant pull requests, along with the miscellaneous work through out the GSoC program.
 
 <h1>Milestones Achieved</h1>
 <ol>
   <li>
-    <b>Milestone 1</b> - This Milstone was mostly focousing on the backend part of the project and the blog post describing the feature can be seen <a href="/sidebar-documentation/Milestone-1-post" target="_blank"><i>here</i></a>.
+    <b>Milestone 1</b> - This Milstone was mostly focousing on the backend part of the project.
     <h4>Pull requests merged</h4>
     <ul>
       <li>
@@ -49,7 +49,7 @@ This post aims at linking and listing out all the feature milestones developed d
   </li>
   <br>
   <li>
-    <b>Milestone 2</b> - In this milestone a simple version of translation tab was built and the blog post describing the feature can be seen <a href="/sidebar-documentation/Milestone-2-post" target="_blank"><i>here</i></a>.
+    <b>Milestone 2</b> - In this milestone a simple version of translation tab was built which allows translators to record and upload audio directly from the oppia platform.
     <h4>Pull requests merged</h4>
     <ul>
       <li>
@@ -84,7 +84,7 @@ This post aims at linking and listing out all the feature milestones developed d
     </ul>
   </li>
   <li>
-    <b>Milestone 3</b> - In this milestone the complete version of translation tab was built and the blog post describing the feature can be seen <a href="/sidebar-documentation/Milestone-2-post" target="_blank"><i>here</i></a>.
+    <b>Milestone 3</b> - In this milestone the complete version of translation tab was built.
     <h4>Pull requests merged</h4>
     <ul>
       <li>
@@ -119,6 +119,7 @@ This post aims at linking and listing out all the feature milestones developed d
 </ol>
 
 <h1>Miscellaneous work:</h1>
+From time to time, certain bugs were introduced, which needed to be fixed immediately, and also some miscellaneous work were done to make oppia release sucessfully.
 <ul>
     <li>
         <a href="https://github.com/oppia/oppia/pull/5496" target="_blank">PR#5496: Added recorder config in app.js</a>
@@ -130,7 +131,7 @@ This post aims at linking and listing out all the feature milestones developed d
         <a href="https://github.com/oppia/oppia/pull/5294" target="_blank">PR#5448: Fixed backend failing tests in suggestion_tests</a>
     </li>
     <li>
-        <a href="https://github.com/oppia/oppia/pull/5227" target="_blank">Fix #5287: Deletes feedback content id while deleting interaction.</a>
+        <a href="https://github.com/oppia/oppia/pull/5227" target="_blank">Fix #5226: Fixed publish button issue.</a>
     </li>
     <li>
         <a href="https://github.com/oppia/oppia/pull/5294" target="_blank">Fix #5287: Deletes feedback content id while deleting interaction.</a>
@@ -145,6 +146,16 @@ This post aims at linking and listing out all the feature milestones developed d
         <a href="https://github.com/oppia/oppia/pull/5091" target="_blank">Fix #5083: Audio needs update span disable for guest users.</a>
     </li>
 </ul>
+
+After the end of the milestone three the translation tab was ready for the end users.
+**Features:**
+- Status of the entire exploration on selected language.
+- Status of each state in preferred language.
+- Status of each component of the state (content/responses/hints/feedback)
+- Audio recording.
+- Drag and drop audio files uplaod.
+- Progress bar for the translation work.
+
 
 <br>
 You may find all my github pull requests <a href="https://github.com/oppia/oppia/pulls?q=is%3Apr+author%3ADubeySandeep+is%3Aclosed" target="_blank"><i>here</i></a> in one go.
