@@ -156,6 +156,8 @@ After the end of the milestone three the translation tab was ready for the end u
 - Drag and drop audio files uplaod.
 - Progress bar for the translation work.
 
+<center><a href="{{ site.url }}/images/Screen.png"><img src="{{ site.url }}/images/Screen.png"></a></center>
+
 
 <br>
 You may find all my github pull requests <a href="https://github.com/oppia/oppia/pulls?q=is%3Apr+author%3ADubeySandeep+is%3Aclosed" target="_blank"><i>here</i></a> in one go.
