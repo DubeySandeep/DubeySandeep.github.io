@@ -148,15 +148,17 @@ From time to time, certain bugs were introduced, which needed to be fixed immedi
 </ul>
 
 After the end of the milestone three the translation tab was ready for the end users.
-**Features:**
-- Status of the entire exploration on selected language.
-- Status of each state in preferred language.
-- Status of each component of the state (content/responses/hints/feedback)
-- Audio recording.
-- Drag and drop audio files uplaod.
-- Progress bar for the translation work.
+<b>Features:</b>
+<ul>
+    <li>Status of the entire exploration on selected language.</li>
+    <li>Status of each state in preferred language.</li>
+    <li>Status of each component of the state (content/responses/hints/feedback)</li>
+    <li>Audio recording.</li>
+    <li>Drag and drop audio files uplaod.</li>
+    <li>Progress bar for the translation work.</li>
+</ul>
 
-<center><a href="{{ site.url }}/images/Screen.png"><img src="{{ site.url }}/images/Screen.png"></a></center>
+<center><a href="https://raw.githubusercontent.com/DubeySandeep/DubeySandeep.github.io/master/images/Screen.png"><img src="https://raw.githubusercontent.com/DubeySandeep/DubeySandeep.github.io/master/images/Screen.png"></a></center>
 
 
 <br>
