@@ -38,7 +38,7 @@ This post aims at linking and listing out all the feature milestones developed d
         </ul>
       </li>
       <li>
-        <a href="https://github.com/oppia/oppia/pull/5099" target="_blank">PR#5099: Milestone 1.3: </a>
+        <a href="https://github.com/oppia/oppia/pull/5099" target="_blank">PR#5099: Milestone 1.3: Allowed translator to work on exploration.</a>
         <ul>
           <li> Allowed an exploration owner to assign translator for their exploration.</li>
           <li> Made editor page accesible to translators.</li>
@@ -53,7 +53,7 @@ This post aims at linking and listing out all the feature milestones developed d
     <h4>Pull requests merged</h4>
     <ul>
       <li>
-        <a href="https://github.com/oppia/oppia/pull/5122" target="_blank">PR#4959: Milestone 2.1 & 2.2: Translation overview directive.</a>
+        <a href="https://github.com/oppia/oppia/pull/5122" target="_blank">PR#5122: Milestone 2.1 & 2.2: Translation overview directive.</a>
         <ul>
           <li> Created TranslationLanguageService (and Spec).</li>
           <li> Made navbar functional for audioTranslation tab.</li>
@@ -62,14 +62,14 @@ This post aims at linking and listing out all the feature milestones developed d
         </ul>
       </li>
       <li>
-        <a href="https://github.com/oppia/oppia/pull/5163" target="_blank">PR#5007: Milestone 2.3: Translation status graph directive.</a>
+        <a href="https://github.com/oppia/oppia/pull/5163" target="_blank">PR#5163: Milestone 2.3: Translation status graph directive.</a>
         <ul>
           <li> Adds graph to translation tab.</li>
           <li> Connected graph with translation overview directive.</li>
         </ul>
       </li>
       <li>
-        <a href="https://github.com/oppia/oppia/pull/5210" target="_blank">PR#5099: Milestone 2.4: State translation directive</a>
+        <a href="https://github.com/oppia/oppia/pull/5210" target="_blank">PR#5210: Milestone 2.4: State translation directive</a>
         <ul>
           <li> Added state content in the translation tab.</li>
         </ul>
